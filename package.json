@@ -12,11 +12,13 @@
     "axios": "^1.6.8",
     "core-js": "^3.34.0",
     "dingtalk-jsapi": "^3.0.33",
+    "qs": "^6.12.1",
     "roboto-fontface": "*",
     "vue": "^3.4.0",
     "vuetify": "^3.5.0"
   },
   "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
     "@vitejs/plugin-vue": "^5.0.4",
     "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
